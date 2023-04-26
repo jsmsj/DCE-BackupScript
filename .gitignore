@@ -1,0 +1,4 @@
+my_cmd.bat
+DCE_CLI/my_cmd.bat
+*__pycache__*
+*.json
